@@ -1,0 +1,1 @@
+When you resize the sample page layout, much of it stays fundamentally the same except for resizing of some elements and reduction in white space. However some elements (such as the two images) go from side by side to one on top of the other. This is done by using @media and then a specified width in the css.
